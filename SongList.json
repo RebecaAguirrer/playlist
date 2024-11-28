@@ -3,9 +3,17 @@
     "id": 1,
     "artist": "Mariane",
     "coverUrl": "https://i.scdn.co/image/ab67616d0000b2738ded122dc3a7423251f8524f",
-    "name": "Sinal de sorte",
+    "name": "Mariane",
     "songUrl": "https://drive.google.com/uc?export=download&id=12OXhwMUUpM8b33nEZ4beVKydQgahaFJ7",
     "estilo": "Infantil"
+  },
+  {
+    "id": 2,
+    "artist": "Alexia",
+    "coverUrl": "https://i.scdn.co/image/ab67616d0000b273afd8e98461d2a8e493fa407c",
+    "name": "Uh La La la",
+    "songUrl": "https://drive.google.com/uc?export=download&id=1eKvhMegLPqPiKFH3ovjVwsjSgoIecNDi",
+    "estilo": "Pop"
   }
 
 ]
