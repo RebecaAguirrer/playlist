@@ -14,6 +14,22 @@
     "name": "Uh La La la",
     "songUrl": "https://drive.google.com/uc?export=download&id=1eKvhMegLPqPiKFH3ovjVwsjSgoIecNDi",
     "estilo": "Pop"
+  },
+   {
+    "id": 3,
+    "artist": "Spice Girls",
+    "coverUrl": "https://i.scdn.co/image/ab67616d0000b27363facc42e4a35eb3aa182b59",
+    "name": "Wannabe",
+    "songUrl": "https://od.lk/s/NzNfNDIyNjM0ODNf/Spice_Girls_Wannabe.mp3",
+    "estilo": "Pop"
+  },
+  {
+    "id": 4,
+    "artist": "Bon Jovi",
+    "coverUrl": "https://i.scdn.co/image/ab67616d0000b2735f66fbeaff0725997250591c",
+    "name": "Always",
+    "songUrl": "https://od.lk/s/NzNfNDIyNjYxNThf/Bon_Jovi_Always.mp3",
+    "estilo": "Pop Rock"
   }
 
 ]
