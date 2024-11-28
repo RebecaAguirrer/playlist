@@ -30,6 +30,14 @@
     "name": "Always",
     "songUrl": "https://od.lk/s/NzNfNDIyNjYxNThf/Bon_Jovi_Always.mp3",
     "estilo": "Pop Rock"
+  },
+   {
+    "id": 5,
+    "artist": "OMC",
+    "coverUrl": "https://i.discogs.com/H2zxQ6JNK4w1lgxFmTKqrdvpafhd2dSXHylUFzYcG2g/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjY3/MzQtMTI0OTIxNjc0/My5qcGVn.jpeg",
+    "name": "How Bizarre",
+    "songUrl": "https://drive.google.com/uc?export=download&id=1ZvSqx2ciKZlFIJCvH0DPR9VKwUK0KuOf",
+    "estilo": "Pop"
   }
 
 ]
