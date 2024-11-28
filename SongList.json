@@ -38,6 +38,14 @@
     "name": "How Bizarre",
     "songUrl": "https://drive.google.com/uc?export=download&id=1ZvSqx2ciKZlFIJCvH0DPR9VKwUK0KuOf",
     "estilo": "Pop"
+  },
+  {
+    "id": 6,
+    "artist": "Britney Spears",
+    "coverUrl": "https://i.scdn.co/image/ab67616d0000b27338a33970ad21a2a1d1315875",
+    "name": "Lucky",
+    "songUrl": "https://drive.google.com/uc?export=download&id=1UJ_jSsLQZN_CzwoOzsJTZLL9DIZ9j4oZ",
+    "estilo": "Pop"
   }
 
 ]
